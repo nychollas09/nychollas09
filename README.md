@@ -1,4 +1,4 @@
-## Olá, eu sou Nichollas Falcão dos Santos. prazer em conhecer você. 👋🏻 
+## Olá, eu sou Nichollas Falcão dos Santos. Prazer em conhecer você. 👋🏻 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nychollas09" alt="Nichollas Falcão" /> </p>
 
@@ -29,9 +29,9 @@
 </p>
 
 Things I like to do:
-- 🎨 Interfaces
-- 🖥 Web Applications
-- 📱 Applications
+- 🖥 Aplicações Web
+- 📱 Aplicativos móveis
+- ☁ Api's
 
-About me:
-- 📫 How to get to me: [My Linkedin](https://www.linkedin.com/in/daniel-silvado)
+Sobre:
+- 📫 Como chegar até mim: [Meu Linkedin](https://www.linkedin.com/in/nichollas-falcao/)
