@@ -23,7 +23,7 @@
   <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react" width="30" height="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="30" height="30"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="java" width="30" height="30"/>
-  <img src="https://www.techtalks.lk/assets/images/posts/1512797013" alt="spring" width="30" height="30"/>
+  <img src="https://spring.io/images/icon-spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="spring" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3"  width="30" height="30"/>
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png?w=640" alt="html5"  width="30" height="30"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="30" height="30"/>
@@ -33,7 +33,6 @@
   <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" alt="kubernetes" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgresql" width="30" height="30"/>
   </p>
-  <p align="center">
 </p>
 
 Things I like to do:
